@@ -1,5 +1,5 @@
 # portfolio
-
+This is a portfolio website made using vuetify wireframe and components.
 ## Project setup
 ```
 npm install
